@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -75,3 +76,8 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+=======
+# Equilibrium
+Equilibrium array
+d
+>>>>>>> 12907b9b5d168a447b0527cf4590ac8c862ab317
